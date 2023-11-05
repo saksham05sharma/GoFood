@@ -6,6 +6,7 @@
 .pnp.js
 
 #packages
+/package.json
 /package-lock.json
 
 # testing
